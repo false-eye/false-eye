@@ -6,7 +6,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://tenor.com/en-GB/view/berserk-guts-sad-rain-lonely-gif-24200250" width="300px">
+<img src="https://tenor.com/en-GB/view/berserk-guts-sad-rain-lonely-gif-24200250.gif" width="300px">
 </div>
 <br>
 
