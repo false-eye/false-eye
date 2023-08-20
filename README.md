@@ -114,7 +114,7 @@ target="_blank">
 </a>
 <a href="https://wa.me/919539901834"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 </a>
-<br><img src = "https://tenor.com/en-GB/view/gats-gif-26498326.gif" width = "400"/>
+<br><img src = "https://tenor.com/en-GB/view/gats-gif-26498326" width = "400"/>
 </div>  
 
 
