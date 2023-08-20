@@ -21,17 +21,17 @@
 ```csharp
 My Profile
 -------------------------------
-Username: Dika Ardnt.
-WhoamI: Normal People.
-Telegram: @cak_haho.
-FavouriteAnime: オーバーロード (Overlord).
-Loves: タツマキ (Tatsumaki) (❤️ ω ❤️), Anime 🎮, Manga 🎹.
+Username: false-eye.
+WhoamI: Muhammed Aslam
+Telegram: @false_eye
+Instagram: @false_eye
+FavouriteAnime: Berserk, AOT, One Piece.
+Loves: Anime,Games,Music.
 Pronouns: He-Him.
 Location: Planet Kepler-452b.
-Hobbyes: Watching Anime and Read Manga.
-FavouriteSong: Official髭男dism - Pretender.
-Hobbies: Watching anime, Read Manga 
-while I am listening music.
+Hobbyes: Watching Anime and Listening Music.
+FavouriteSong: Robbery - Juice Wrld.
+Hobbies: Watching anime, Play games while I am listening music.
 
 ```
 
@@ -42,7 +42,7 @@ while I am listening music.
 <br>
 <br>
 
-<p align="right"><a href = "https://www.youtube.com/watch?v=TQ8WlA2GXbk"><img src = "https://i.ytimg.com/vi/TQ8WlA2GXbk/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>Official髭男dism - Pretender</b></p>
+<p align="right"><a href = "https://youtu.be/IQ3SidJb1QI"><img src = "https://img.youtube.com/vi/IQ3SidJb1QI/hqdefault.jpg" width = "170" align = "left"/></a><b><br>Cross the globe - Lil Durk ft. Juice Wrld </b></p>
 <br>
 <br>
 
