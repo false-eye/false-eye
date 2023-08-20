@@ -60,7 +60,7 @@ Hobbies: Watching anime, Play games while I am listening music.
 <h2 align="center"> 🔎Knowledge📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify">I love watching anime & listrn to music. <br></p>
+<p align = "justify">I love watching anime & listen to music. <br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
         <img style="margin: 10px"src="https://skillicons.dev/icons?i=react,express,js,html,css,mongodb,netlify,github&perline=8"alt="My Skills"/> 
