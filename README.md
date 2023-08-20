@@ -125,7 +125,7 @@ target="_blank">
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div>
 <p align="center">
-    <img src="https://giphy.com/gifs/berserk-guts-1UdC3Ny54V3y0E2Tlw.gif"/>
+    <img src="https://media2.giphy.com/media/1UdC3Ny54V3y0E2Tlw/giphy.gif?cid=6c09b9522ihe07roah9bvqbbfew2ljgucnaeqno8ihkv9qn8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
    </p>
   </div>
 <br> 
