@@ -115,7 +115,9 @@ target="_blank">
 <a herf="https://wa.me/919539901834"
 target="_blank">
 <img
-src=https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge<br><img src = "https://media.tenor.com/8W0aS68VgF0AAAAC/shalltear-overlord.gif" width = "400"/>
+src=https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge="margin-bottom: 5px;" />
+</a>
+<br><img src = "https://media.tenor.com/8W0aS68VgF0AAAAC/shalltear-overlord.gif" width = "400"/>
 </div>  
 
 
