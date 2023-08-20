@@ -16,7 +16,7 @@
 > profile
 ```
 
-<img align="left" src="img/hisokamorou.png" width="130px"/> 
+<img align="left" src="img/guts.png" width="130px"/> 
 
 ```csharp
 My Profile
