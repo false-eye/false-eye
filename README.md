@@ -51,7 +51,7 @@ Hobbies: Watching anime, Play games while I am listening music.
 <br>
 <br>
 
-<p align="right"><a href="https://www.youtube.com/watch?v=IfMqM-AtnQk"><img src="https://i.ytimg.com/vi/IfMqM-AtnQk/hqdefault.jpg" width="170" align="left"></a><b><br>Yuika - Sukidakara 好きだから ft. Ren</b></p>
+<p align="right"><a href="https://youtu.be/tGFPRAFWB7M"><img src="https://img.youtube.com/vi/tGFPRAFWB7M/maxresdefault.jpg" width="170" align="left"></a><b><br>Ivan Cornejo - La Última Vez - deluxe</b></p>
 <br>
 </div>
 <br>
@@ -60,7 +60,7 @@ Hobbies: Watching anime, Play games while I am listening music.
 <h2 align="center"> 🔎Knowledge📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify">I love watching anime. <br></p>
+<p align = "justify">I love watching anime & listrn to music. <br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
         <img style="margin: 10px"src="https://skillicons.dev/icons?i=react,express,js,html,css,mongodb,netlify,github&perline=8"alt="My Skills"/> 
@@ -78,17 +78,17 @@ Hobbies: Watching anime, Play games while I am listening music.
 <div> 
 <p align = "center">
     <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=DikaArdnt&count_private=true&theme=radical&show_icons=true&hide_border=false"/>
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=false-eye&count_private=true&theme=radical&show_icons=true&hide_border=false"/>
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DikaArdnt&theme=radical&hide_border=false&date_format=%5BY%20%5DM%20j"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=false-eye&theme=radical&hide_border=false&date_format=%5BY%20%5DM%20j"/>
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=DikaArdnt&theme=juicyfresh&row=4&column=4"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikaArdnt&hide_border=false&theme=radical&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%" />
+        <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=false-eye&theme=juicyfresh&row=4&column=4"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=false-eye&hide_border=false&theme=radical&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%" />
     </a>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img width="120%" alt="Stats" src="https://github-readme-activity-graph.cyclic.app/graph?username=DikaArdnt&theme=redical"/>
+        <img width="120%" alt="Stats" src="https://github-readme-activity-graph.cyclic.app/graph?username=false-eye&theme=redical"/>
     </a>
 </p>
 </div>
@@ -102,7 +102,7 @@ Hobbies: Watching anime, Play games while I am listening music.
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
 <div align="center">
-<a href="https://github.com/DikaArdnt" target="_blank">
+<a href="https://github.com/false-eye" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/Cakhaho" target="_blank">
