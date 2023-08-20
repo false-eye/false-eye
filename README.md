@@ -105,12 +105,17 @@ Hobbies: Watching anime, Play games while I am listening music.
 <a href="https://github.com/false-eye" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Cakhaho" target="_blank">
+<a href="https://twitter.com/false_eyee" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/cak_haho" target="_blank">
+<a href="https://instagram.com/false_eye"
+target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  <br><img src = "https://media.tenor.com/8W0aS68VgF0AAAAC/shalltear-overlord.gif" width = "400"/>
+</a>
+<a herf="https://wa.me/919539901834"
+target="_blank">
+<img
+src=https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge<br><img src = "https://media.tenor.com/8W0aS68VgF0AAAAC/shalltear-overlord.gif" width = "400"/>
 </div>  
 
 
