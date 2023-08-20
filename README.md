@@ -6,7 +6,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://media.tenor.com/WawsnI5b3e4AAAAC/hisoka-hunter-x-hunter.gif" width="300px">
+<img src="https://tenor.com/bNHKM.gif" width="300px">
 </div>
 <br>
 
