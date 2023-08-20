@@ -42,11 +42,11 @@ Hobbies: Watching anime, Play games while I am listening music.
 <br>
 <br>
 
-<p align="right"><a href = "https://youtu.be/IQ3SidJb1QI"><img src = "https://img.youtube.com/vi/IQ3SidJb1QI/hqdefault.jpg" width = "170" align = "left"/></a><b><br>Cross the globe - Lil Durk ft. Juice Wrld </b></p>
+<p align="right"><a href = "https://youtu.be/IQ3SidJb1QI"><img src = "https://img.youtube.com/vi/IQ3SidJb1QI/hqdefault.jpg" width = "170" align = "left"/></a><b><br>Cross The Globe - Lil Durk ft. Juice Wrld </b></p>
 <br>
 <br>
 
-<p align="left"><a href = "https://www.youtube.com/watch?v=yO8nx8-SLYE"><img  src ="https://i.ytimg.com/vi/yO8nx8-SLYE/maxresdefault.jpg" width="170" align="right"></a><b><br><br>「Baton Road / バトンロード」 MV Rip off</b></p>
+<p align="left"><a href = "https://youtu.be/NfMegACVJQw"><img  src ="https://img.youtube.com/vi/NfMegACVJQw/hqdefault.jpg" width="170" align="right"></a><b><br><br> Surf Curse - Freaks</b></p>
 
 <br>
 <br>
