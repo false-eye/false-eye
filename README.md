@@ -36,7 +36,7 @@ Hobbies: Watching anime, Play games while I am listening music.
 ```
 ## Now Listening 🎵:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vt6yb4gnj2gdiojzsk2xucg4ii&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff)](https://spotify-github-profile.vercel.app/api/view?uid=31vt6yb4gnj2gdiojzsk2xucg4ii&redirect=true)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31vt6yb4gnj2gdiojzsk2xucg4ii&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31vt6yb4gnj2gdiojzsk2xucg4ii&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)]]
 
 <div>
 <br>
